@@ -2,12 +2,16 @@
 ブランチを切ってpushするまでの流れ
 
 * 目的のリポジトリをクローン
+```bash
 $ git clone https://...
+```
 
 * branchを切る
+```bash
 $ git switch -c Newbranch
 
 * リポジトリに変更を加えたら
+```bash
 $ git add -A
 $ git commit -m "initial commit"
 $ git push --set-upstream origin Newbranch
