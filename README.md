@@ -23,7 +23,7 @@ $ git push --set-upstream origin Newbranch
  * 次にパスワードを聞かれるのでGitHubにログインし, プロフィールアイコンから[Settings] -> [Developer settings] -> [Personal access tokens] -> [Generate new token] の順にクリック
  
  * repoにチェックマークを入れて[Generate token]をクリック, その後表示されるパスワードをコピー
-  * 念の為どこかに保存すること
+   * 念の為どこかに保存すること
 
  * ターミナルに戻りパスワードをペースト
 
